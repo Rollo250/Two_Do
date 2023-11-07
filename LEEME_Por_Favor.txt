@@ -1,0 +1,8 @@
+Este el trabajo práctivo del grupo "Los Chimindangas".
+Es una app de tareas que posee las siguiente funcionalidades:
+Asigna un título a la tarea, una descripción que en el caso de ser compras se puede ampliar como lista de compras, tiene un reloj que marca el tiempo para el final de la tarea, un boton que avisa que esta completa (con el registro del momento exacto en el que se terminó), un botón para eliminarla y un botón para editarla. Todo guardado en una Api en el backend con Django rest framework
+La primera página es un login con Auth0.
+
+Los miembros del grupo somos: Lucía Karcher, Luciano Gutierrez, Adrian Villada, Daniel Delembert, Diego Damián Benitez y Rolando Alvarez.
+
+Agradecidos por el apoyo y la colaboración de los profesores.
